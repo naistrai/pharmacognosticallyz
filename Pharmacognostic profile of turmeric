@@ -1,0 +1,3 @@
+django-admin startproject chatbot_project
+cd chatbot_project
+python manage.py startapp chatbot_app
